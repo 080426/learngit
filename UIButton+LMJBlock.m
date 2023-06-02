@@ -21,6 +21,7 @@
 
 1 第三次修改
 
+1 第四次修改
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
