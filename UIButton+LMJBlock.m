@@ -75,7 +75,10 @@
 1 9
 1 9
 1 9
- 
+
+2 11--git pull
+2 11--git pull
+2 11--git pull
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
