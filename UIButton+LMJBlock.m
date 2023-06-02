@@ -32,9 +32,16 @@
 2 第六
 2 第六
 
+
 2 第七
 2 第七
 2 第七
+ 
+ 
+1 第六次修改
+1 第六次修改
+1 第六次修改
+ 
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
