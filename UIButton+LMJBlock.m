@@ -15,13 +15,20 @@
 
 2第二次修改
 
-
+2 第三次修改
 #import "UIButton+LMJBlock.h"
 #import <objc/runtime.h>
 
 1 第三次修改
 
+
 1 第四次修改
+
+2 第四
+
+2 第五
+
+
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
