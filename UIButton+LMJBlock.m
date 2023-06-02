@@ -28,7 +28,9 @@
 
 2 第五
 
-
+2 第六
+2 第六
+2 第六
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
