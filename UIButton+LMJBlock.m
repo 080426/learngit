@@ -52,7 +52,9 @@
 1 7
 1 7
  
- 
+2 第9
+2 第9
+2 第9
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
