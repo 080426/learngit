@@ -98,6 +98,10 @@
 1 11 pull
 1 11 pull
 1 11 pull
+
+2 15 pull
+2 15 pull
+2 15 pull
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
