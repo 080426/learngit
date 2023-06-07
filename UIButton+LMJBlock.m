@@ -132,6 +132,14 @@
 1 dev_1 stash
 1 dev_1 stash
 1 dev_1 stash
+1 main dev_issue
+1 main dev_issue
+1 main dev_issue
+
+
+1 main dev_issue 2
+1 main dev_issue 2
+1 main dev_issue 2
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
