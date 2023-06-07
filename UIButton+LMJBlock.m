@@ -120,6 +120,10 @@
 1 dev_1
 1 dev_1
 1 dev_1
+
+2 main -3
+2 main -3
+2 main -3
 static const void *timeIntervalKey = &timeIntervalKey;
 static const void *isIgnoreEventKey = &isIgnoreEventKey;
 static const CGFloat defaultTimeInterval = 2;
