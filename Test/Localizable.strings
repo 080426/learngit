@@ -10,6 +10,7 @@
 //"changeSpace" = "您已切换到";
 
 "live_show_hint" = "您当前未连接网络";
+string change;
 "language_select" = "选择语言";
 "favorite" = "我的收藏";
 "licence" = "使用条款和隐私协议";
